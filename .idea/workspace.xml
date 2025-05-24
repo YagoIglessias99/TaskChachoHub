@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fd09473-062a-4166-a4d9-ac5726deefdf" name="Changes" comment="feat: create model usuario">
-      <change afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GerenciadorProjetosApp.java" afterDir="false" />
+    <list default="true" id="4fd09473-062a-4166-a4d9-ac5726deefdf" name="Changes" comment="test: database test for persistence usuario">
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Projeto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,13 +104,22 @@
       <option name="project" value="LOCAL" />
       <updated>1748044050653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test: database test for persistence usuario">
+      <option name="closed" value="true" />
+      <created>1748046013043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748046013043</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="chore: database maven config" />
     <MESSAGE value="feat: create model usuario" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create model usuario" />
+    <MESSAGE value="test: database test for persistence usuario" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: database test for persistence usuario" />
   </component>
 </project>
