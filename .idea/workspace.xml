@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fd09473-062a-4166-a4d9-ac5726deefdf" name="Changes" comment="test: database test for persistence usuario">
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Projeto.java" afterDir="false" />
+    <list default="true" id="4fd09473-062a-4166-a4d9-ac5726deefdf" name="Changes" comment="feat: tela principal e menu">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserListTableModel/UserListTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/views/user/UsuarioList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GerenciadorProjetosApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GerenciadorProjetosApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +51,16 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="UserListTableModel" />
+      <recent name="views.user" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\12925110932\IdeaProjects\TaskChachoHub\src\main\resources\META-INF" />
       <recent name="C:\Users\12925110932\IdeaProjects\TaskChachoHub" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748046013043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: tela principal e menu">
+      <option name="closed" value="true" />
+      <created>1748649470803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748649470803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,6 +126,7 @@
     <MESSAGE value="chore: database maven config" />
     <MESSAGE value="feat: create model usuario" />
     <MESSAGE value="test: database test for persistence usuario" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: database test for persistence usuario" />
+    <MESSAGE value="feat: tela principal e menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: tela principal e menu" />
   </component>
 </project>
