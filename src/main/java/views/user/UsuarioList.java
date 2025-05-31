@@ -7,7 +7,7 @@ import java.awt.*;
 
 import java.util.List;
 public class UsuarioList extends JPanel {
-    private UserListTableModel.UserListTableModel tableModel;
+    private UserListTableModel tableModel;
 
     public UsuarioList(){
         this.initComponents();
@@ -15,7 +15,7 @@ public class UsuarioList extends JPanel {
 
     private void initComponents() {
         setLayout(new BorderLayout());
-        
+
         this.tableModel = new UserListTableModel(List.of());
     }
 }
